@@ -1,4 +1,4 @@
-A rideshare App I made so that carpooling to school becomes easier, made entirely on SWIFT and is avalible on Apple's Testflight. 
+A rideshare App I made so that carpooling to school becomes easier, made entirely on SWIFT, uses FIREBASE for ride request storing as well as profile info. Avalible on Apple's Testflight. 
 1. Download App https://testflight.apple.com/join/DxCzuQqp
 2. Create account
 3. Go to profile Tab and fill out all info before sending out ride or accepting
